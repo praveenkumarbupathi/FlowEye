@@ -28,12 +28,12 @@
    cd FlowEye
    ```
 
-2.  Launch the application:
+2. Launch the application:
    ```bash
    python floweye.py
    ```
----
 
+---
 
 
 ## 📖 Usage
