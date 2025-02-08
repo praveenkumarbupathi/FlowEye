@@ -28,17 +28,12 @@
    cd FlowEye
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Launch the application:
+2.  Launch the application:
    ```bash
    python floweye.py
    ```
 
----
+
 
 ## 📖 Usage
 
