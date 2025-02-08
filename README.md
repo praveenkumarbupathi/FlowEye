@@ -19,7 +19,7 @@
 
 ### Prerequisites
 - 🐍 **Python 3.7+**
-- 📦 Required Python libraries (listed in `requirements.txt`)
+
 
 ### Steps
 1. Clone the repository:
