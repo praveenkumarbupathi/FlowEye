@@ -90,7 +90,7 @@ We welcome contributions! Follow these steps to get started:
 
 ## ⚠️ Disclaimer
 
-This tool is intended for **educational and ethical purposes only**. Misuse of FlowEye for illegal activities is strictly prohibited. Ensure you have proper authorization before conducting simulations.
+This tool is intended for **educational and ethical purposes only**. Misuse of FlowEye for illegal activities is strictly prohibited. Ensure you have proper authorization before conducting simulations. And i'm not responsible if you caught
 
 ---
 
