@@ -109,5 +109,4 @@ Special thanks to all contributors and the cybersecurity community for their gui
 ## 📬 Contact
 
 - **Author**: [Praveen Kumar Bupathi](https://github.com/praveenkumarbupathi)
-- 📧 Email: praveen@example.com
 - 🌐 [GitHub Repository](https://github.com/praveenkumarbupathi/FlowEye)
