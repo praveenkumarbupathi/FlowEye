@@ -96,7 +96,7 @@ This tool is intended for **educational and ethical purposes only**. Misuse of F
 
 ## 📜 License
 
-FlowEye is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+FlowEye is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details and License.
 
 ---
 
